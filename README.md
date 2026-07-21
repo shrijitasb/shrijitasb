@@ -26,7 +26,10 @@
 
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,git,github,vscode,visualstudio,java,python,figma,ps,miro" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,git,github,vscode,visualstudio,java,python,figma,ps,miro" />
+</p>
+<p align="center">
+Unity • C# • Git • GitHub • VS Code • Visual Studio • Java • Python • Figma 
 </p>
 <!--
 **shrijitasb/shrijitasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
