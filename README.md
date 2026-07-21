@@ -1,6 +1,9 @@
 <p align="center">
   <img src="banner_lnkd.png" alt="Banner" width="100%">
 </p>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2000&pause=1500&color=6D2BF6&center=true&vCenter=true&width=500&lines=Welcome+to+Shrijita's+Game+Lab!;Tune+in+for+fun+player+experiences!" alt="Typing SVG" /></a>
+</p>
 ## Hi there, I am Shrijita Banerjee 👋
 <!--
 **shrijitasb/shrijitasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
