@@ -4,7 +4,25 @@
 <p align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=2000&pause=1500&color=6D2BF6&center=true&vCenter=true&width=500&lines=Welcome+to+Shrijita's+Game+Lab!;Tune+in+for+fun+player+experiences!" alt="Typing SVG" /></a>
 </p>
-## Hi there, I am Shrijita Banerjee 👋
+<h2 align="center">🎮 About Me</h2>
+<table>
+<tr>
+<td width="65%">
+
+- 🎓 BS in Data Science & Applications, IIT Madras
+- 🎓 BSc in Computer Science, University of Calcutta
+- 🎮 Game Designer & Unity Developer
+- 🧩 Passionate about Puzzle, Hybrid Casual & Simulation Games
+- 🌱 Plan to learn something new everyday
+- 🚀 Looking for opportunities as a Junior Game Designer
+
+</td>
+
+<td width="35%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220">
+</td>
+</tr>
+</table>
 <!--
 **shrijitasb/shrijitasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
